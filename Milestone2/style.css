@@ -28,3 +28,15 @@ main {
     padding: 20px;
     margin: 3rem;
 }
+
+.animal {
+    color: blue;
+}
+
+.vegetable {
+    color: orange;
+}
+
+.user {
+    color: purple;
+}
