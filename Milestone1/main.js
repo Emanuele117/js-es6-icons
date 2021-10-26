@@ -109,7 +109,7 @@ icons.forEach((icon, index, array) => {
         </div>
     `
 
-    document.querySelector('.cards').insertAdjacentHTML('beforeend', cardElement)
+    document.querySelector('.container_icone').insertAdjacentHTML('beforeend', cardElement)
 })
 
 
